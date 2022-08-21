@@ -1,7 +1,5 @@
 /**
    * Create By Dika Ardnt | Recode by Zoey.
-   * Contact Me on wa.me/6288292024190
-   * Follow https://github.com/DikaArdnt
 */
 
 require('./config')
